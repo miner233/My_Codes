@@ -1,5 +1,4 @@
 def mo(x,y,m):
-    # 数学运算处理函数（mo 是 Mathematical operations 的缩写）
     if m == 1:
         return x + y
     elif m == 2:
@@ -12,7 +11,6 @@ def mo(x,y,m):
         return x ** y
 
 def go(x,y,m):
-    # 图形运算处理函数（go 是 Graphical calculations 的缩写）
     if 1 == 1:
         pass
 
